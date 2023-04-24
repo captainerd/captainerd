@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning anything that comes to my way
 - 📫 How to reach me at 
 <div style="font-size: 38px">
-Some projects here <b>are part of my bloq https://captainerd-tips.blogspot.com/ happy reading.
+My Blog: https://captainerd-tips.blogspot.com/ happy reading.
   </div>
 <!---
 
