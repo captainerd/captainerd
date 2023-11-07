@@ -1,7 +1,7 @@
 -  👋 Hi, I’m @captainerd
 - 👀 I’m interested in full stack developing and blockchain technologies, Cordova + reactjs, solidity, PHP, C++, Mongo, MySQL etc
 - 🌱 I’m currently learning anything that comes to my way
-- 📫 How to reach me at 
+- 📫 How to reach me at captainerd@fso.gr
 <div style="font-size: 38px">
 My Blog: https://fso.gr/ happy reading.
   </div>
