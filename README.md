@@ -1,13 +1,14 @@
--  👋 Hi, I’m @captainerd
-- 👀 I’m interested in full stack developing and blockchain technologies, Cordova + reactjs, solidity, PHP, C++, Mongo, MySQL etc
-- 🌱 I’m currently learning anything that comes to my way
-- 📫 How to reach me at captainerd@fso.gr
-<div style="font-size: 38px">
-My Blog: https://fso.gr/ happy reading.
-  </div>
-<!---
+# Velecron Portfolio
 
-captainerd/captainerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to the Velecron Portfolio! 
+This repository showcases our diverse range of projects, from e-Commerce solutions to blockchain applications and more.
+
+## Technologies Used
+- **Languages:** C#, JavaScript, Solidity
+- **Frameworks:** ReactJS, Cordova
+- **Tools:** OpenCart, VentoCart, Asterisk
  
+## Contact
+If you’re looking for custom solutions in the tech industry or have any inquiries, feel free to reach out to us at natsos@velecron.net
+
+
