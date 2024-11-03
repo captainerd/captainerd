@@ -1,4 +1,4 @@
-# Velecron Portfolio
+# Velecron Projects
 
 Welcome to the Velecron Projects! 
 This repository showcases our diverse range of projects, from e-Commerce solutions to blockchain applications and more.
